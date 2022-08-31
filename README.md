@@ -3,12 +3,11 @@
   
   ## About Me 👩‍💼
   
-- 👀 I am Swastik, working as an Software engineer at Ksolves.
-- 🎓 I graduated in 2021 from MCU, Bhopal (BCA) with a CGPA of 8.41.
-- 🎓 I’m currently pursuing my Masters (MCA) from BIST bhopal
+- 👀 I am Ashish Sahu, working as a Software Developer Intern at CoreCard.
+- 🎓 Currently, I am pursuing in BTech in CSE from Bansal Institute of Research & Technology, Bhopal.
 - 🌱 I’m currently learning Python Full Stack.
-- 💻 I’m a content creator on instagram (Tech.till.date) 
-- 💞️ Interests: Listening songs, graphic designing 
+- 💻 I’m a content creator on instagram (gumnaam__coder)
+- ⚡️ Interests: Listening to songs and meditation.
 
 ## Tech Stack 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
