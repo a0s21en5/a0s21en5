@@ -6,4 +6,5 @@ About me 👩‍💼
 - 🎓 Currently, I am pursuing in BTech in CSE from Bansal Institute of Research & Technology, Bhopal.
 - 💬 Currently, I am learning web development and love to create beautiful and functional websites.
 - ⚡️ Interests: Listening to songs, creating content, and meditation.
-- 
+
+### Tech Stack
