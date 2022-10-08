@@ -4,7 +4,7 @@
   ## About Me 👩‍💼
   
 - 👀 I am Ashish Sahu, working as a Software Developer Intern at CoreCard.
-- 🎓 Currently, I am pursuing in BTech in CSE from Bansal Institute of Research & Technology, Bhopal.
+- 🎓 Currently, I am pursuing in B-Tech in CSE from Bansal Institute of Research & Technology, Bhopal.
 - 🌱 I’m currently learning Python Full Stack.
 - ⚡️ Interests: Listening to songs and meditation.
 
