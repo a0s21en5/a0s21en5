@@ -1,7 +1,4 @@
   ## Hello 👋, I'm Ashish Sahu
-  [![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
-  
-  ## About Me 👩‍💼
   
 - 🎓  Currently I am pursuing Computer Science Engineering at Bansal Institute of Research & Technology, Bhopal.
 - 👀  I'm currently working as a Software Developer Intern at CoreCard.
@@ -9,6 +6,8 @@
 - 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, Data structures and Algorithms.
 - 🤔 Fun Fact: I love to improve my understanding and competence at every points of life
 - ✉️  You can shoot me an email at ashsahu9713@gmail.com! I'll try to respond as soon as I can
+
+[![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
 
 ## Tech Stack 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
