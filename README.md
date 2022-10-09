@@ -7,7 +7,7 @@
 - 🎓 Currently, I am pursuing in B-Tech in CSE from Bansal Institute of Research & Technology, Bhopal.
 - 🤔 Fun Fact: I love to improve my understanding and competence at every points of life
 - 🌱 I’m currently learning Python Full Stack web development.
-- ⚡️ Interests: Listening to songs and meditation.
+- ⚡️ Interests: Coding, Problem Solving, Listening Songs and Meditation. 
 
 ## Tech Stack 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
