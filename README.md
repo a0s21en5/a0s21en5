@@ -1,5 +1,6 @@
   ## Hello 👋, I'm Ashish Sahu
   
+  ## About Me
 - 🎓  Currently I am pursuing Computer Science Engineering at Bansal Institute of Research & Technology, Bhopal.
 - 👀  I'm currently working as a Software Developer Intern at CoreCard.
 - 💡  Some technologies I enjoy working with include HTML, CSS, JavaScript, Bootstrap and MySQl. Currently exploring Python.
