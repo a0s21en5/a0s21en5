@@ -3,11 +3,12 @@
   
   ## About Me 👩‍💼
   
-- 👀 I'm currently working as a Software Developer Intern at CoreCard.
-- 🎓 Currently, I am pursuing B-Tech in CSE from Bansal Institute of Research & Technology, Bhopal.
+- 🎓  Currently I am pursuing Computer Science Engineering at Bansal Institute of Research & Technology, Bhopal.
+- 👀  I'm currently working as a Software Developer Intern at CoreCard.
+- 💡  Some technologies I enjoy working with include HTML, CSS, JavaScript, Bootstrap and MySQl. Currently exploring Python.
+- 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, Data structures and Algorithms.
 - 🤔 Fun Fact: I love to improve my understanding and competence at every points of life
-- 🌱 I’m currently learning Python Full Stack web development.
-- ⚡️ Interests: Coding, Problem Solving, Listening Songs and Meditation. 
+- ✉️  You can shoot me an email at ashsahu9713@gmail.com! I'll try to respond as soon as I can
 
 ## Tech Stack 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
