@@ -5,6 +5,7 @@
   
 - 👀 I'm currently working as a Software Developer Intern at CoreCard.
 - 🎓 Currently, I am pursuing in B-Tech in CSE from Bansal Institute of Research & Technology, Bhopal.
+- 🤔 Fun Fact: I love to improve my understanding and competence at every points of life
 - 🌱 I’m currently learning Python Full Stack web development.
 - ⚡️ Interests: Listening to songs and meditation.
 
