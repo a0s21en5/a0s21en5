@@ -1,5 +1,12 @@
   ## Hello 👋, I'm Ashish Sahu
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ashishsahu.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a0s21en5/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a0s21en5)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gumnaam__coder/)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://gumnaamcoder.tech/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ashsahu9713@gmail.com)
+
   ## About Me
   - 🎓  Currently I am pursuing Computer Science Engineering at Bansal Institute of Research & Technology, Bhopal.
   - 👀  I'm currently working as a Software Developer Intern at CoreCard.
