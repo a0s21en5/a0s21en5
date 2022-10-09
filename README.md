@@ -14,6 +14,8 @@
   - 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, Data structures and Algorithms.
   - 🤔 Fun Fact: I love to improve my understanding and competence at every points of life.
   - ✉️  You can shoot me an email at ashsahu9713@gmail.com! I'll try to respond as soon as I can.
+  
+  [![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
 
 ## Tech Stack 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,13 +26,3 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Contact Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ashishsahu.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a0s21en5/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a0s21en5)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gumnaam__coder/)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://gumnaamcoder.tech/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ashsahu9713@gmail.com)
-
-[![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
