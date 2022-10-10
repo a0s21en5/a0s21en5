@@ -13,7 +13,7 @@
   - 💡  Some technologies I enjoy working with include HTML, CSS, JavaScript, Bootstrap and MySQl. Currently exploring Python.
   - 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, Data structures and Algorithms.
   - 🤔 Fun Fact: I love to improve my understanding and competence at every points of life.
-  - ✉️  You can shoot me an email at ashsahu9713@gmail.com! I'll try to respond as soon as I can.
+  - ✉️  You can shoot me an email at ashsahu9713@gmail.com I'll try to respond as soon as I can.
   
   [![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
 
