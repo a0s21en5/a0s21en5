@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ashsahu9713@gmail.com)
 
   ## About Me
-  - 🎓  Currently I am pursuing Computer Science Engineering at Bansal Institute of Research & Technology, Bhopal.
+  - 🎓  I'm currently studying Computer Science Engineering at Bansal Institute of Research & Technology, Bhopal.
   - 👀  I'm currently working as a Software Developer Intern at CoreCard.
   - 💡  Some technologies I enjoy working with include HTML, CSS, JavaScript, Bootstrap and MySQl. Currently exploring Python.
   - 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, Data structures and Algorithms.
