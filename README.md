@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/a0s21en5" target="blank"><img src="https://img.shields.io/twitter/follow/a0s21en5?logo=twitter&style=for-the-badge" alt="a0s21en5" /></a> </p>
 
+- 👀 I am Ashish, working as an Software Developer Intern at CoreCard Software Inc.
+
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
