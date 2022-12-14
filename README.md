@@ -11,7 +11,7 @@
 
 - 👀 I am Ashish, working as an Software Developer Intern at CoreCard Software Inc.
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
 
