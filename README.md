@@ -18,7 +18,7 @@
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **ashsahu9713@gmail.com**
-- 
+
 - ⚡ Fun fact **I love to improve my understanding and competence at every points of life.**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a0s21en5&show_icons=true&locale=en&layout=compact" alt="a0s21en5" /></p>
 
