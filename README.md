@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
 
-- 📝 I regularly write articles on [https://thehackingblog.tech/](https://thehackingblog.tech/)
+- 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
 
 - 💬 Ask me about **Web development**
 
