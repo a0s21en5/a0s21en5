@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a0s21en5&label=Profile%20views&color=0e75b6&style=flat" alt="a0s21en5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a0s21en5" alt="a0s21en5" /></a> </p>
-
 > 👀 I am Ashish, working as an Software Developer Intern at CoreCard Software Inc.
 
 > 🌱 I’m currently learning **C#** and **.NET**
@@ -22,5 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=a0s21en5)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a0s21en5" alt="a0s21en5" /></a> </p>
