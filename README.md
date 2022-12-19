@@ -8,20 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/a0s21en5" target="blank"><img src="https://img.shields.io/twitter/follow/a0s21en5?logo=twitter&style=for-the-badge" alt="a0s21en5" /></a> </p>
 
-- 👀 I am Ashish, working as an Software Developer Intern at CoreCard Software Inc.
+> 👀 I am Ashish, working as an Software Developer Intern at CoreCard Software Inc.
 
-- 🌱 I’m currently learning **C#** and **.NET**
+> 🌱 I’m currently learning **C#** and **.NET**
 
-- 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
+> 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
 
-- 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
+> 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
 
-- 💬 Ask me about **Web development**
+> 💬 Ask me about **Web development**
 
-- 📫 How to reach me **ashsahu9713@gmail.com**
+> ⚡ Fun fact **I love to improve my understanding and competence at every points of life.**
 
-- ⚡ Fun fact **I love to improve my understanding and competence at every points of life.**
-
+> 📫 How to reach me **ashsahu9713@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
 
