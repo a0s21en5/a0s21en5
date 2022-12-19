@@ -24,3 +24,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=a0s21en5)
