@@ -1,5 +1,3 @@
-[![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
-
 <h1 align="center">Hii 👋, I'm Ashish Sahu</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a0s21en5&label=Profile%20views&color=0e75b6&style=flat" alt="a0s21en5" /> </p>
@@ -21,3 +19,5 @@
 > 📫 How to reach me **ashsahu9713@gmail.com**
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
+
+[![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
