@@ -10,13 +10,13 @@
 
 > 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
 
-> 💬 Ask me about **Web development**
+> 💬 Ask me about **Web Development**
 
 > ⚡ Fun fact **I love to improve my understanding and competence at every points of life.**
 
 > 📫 How to reach me **ashsahu9713@gmail.com**
  
- 
+
 [![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
