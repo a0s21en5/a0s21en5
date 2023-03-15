@@ -4,7 +4,7 @@
 
 > 👀 I am Ashish, working as an Software Developer Intern at CoreCard Software Inc.
 
-> 🌱 I’m currently learning **C#** and **.NET**
+> 🌱 I’m currently learning **C#**, **.NET** and **RESTful API**.
 
 > 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
 
