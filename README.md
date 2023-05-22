@@ -53,5 +53,4 @@ I'm a dedicated software developer with expertise in various programming languag
 
 Add the following code snippet to display the GitHub Streak Snake Game:
 
-```markdown
 ![Snake Game](https://github.com/a0s21en5/a0s21en5/blob/output/github-contribution-grid-snake.svg)
