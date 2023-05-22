@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to contribute
 - **Name:** Your Name
 - **Location:** Your City, Country
 - **Website:** [www.yourwebsite.com](https://www.yourwebsite.com)
-- **Email:** your@email.com
+- **Email:** [your@email.com](mailto:your@email.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 I'm a dedicated software developer with expertise in various programming languages and technologies. I enjoy solving complex problems and building innovative solutions. Open source is a key part of my journey, and I actively contribute to different projects.
@@ -55,4 +55,3 @@ Add the following code snippet to display the GitHub Streak Snake Game:
 
 ```markdown
 ![Snake Game](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
-
