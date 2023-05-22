@@ -1,56 +1,21 @@
-# My Awesome GitHub Profile
+<h1 align="center"><span style="color:#336699;">Hii 👋, I'm Ashish Sahu</span></h1>
 
-[![Profile Header](https://path/to/header/image.jpg)](https://github.com/YourUsername)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a0s21en5&label=Profile%20views&color=0e75b6&style=flat" alt="a0s21en5" /> </p>
 
-Welcome to my GitHub profile! I'm passionate about coding and love to contribute to open source projects. Here you'll find an overview of my skills, projects, and contributions. Feel free to explore and connect with me.
+> 👀 I am Ashish, working as a Software Developer Intern at CoreCard Software Inc.
 
-## About Me
+> 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
 
-- **Name:** Your Name
-- **Location:** Your City, Country
-- **Website:** [www.yourwebsite.com](https://www.yourwebsite.com)
-- **Email:** [your@email.com](mailto:your@email.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+> 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
 
-I'm a dedicated software developer with expertise in various programming languages and technologies. I enjoy solving complex problems and building innovative solutions. Open source is a key part of my journey, and I actively contribute to different projects.
+> 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
 
-## Skills
+> 💬 Ask me about **Web Development**
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Version Control: Git, GitHub
+> 📫 How to reach me: ashsahu9713@gmail.com
 
-## Featured Projects
+> ⚡ Fun fact: I love to improve my understanding and competence at every point in life.
 
-### Project 1: Project Name
+[![a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
 
-- **Description:** Briefly describe the project and its purpose.
-- **GitHub Repository:** [Link to the Repository](https://github.com/yourusername/project1)
-- **Technologies:** List the technologies used in the project.
-
-### Project 2: Project Name
-
-- **Description:** Briefly describe the project and its purpose.
-- **GitHub Repository:** [Link to the Repository](https://github.com/yourusername/project2)
-- **Technologies:** List the technologies used in the project.
-
-## Open Source Contributions
-
-### Project Name 1
-
-- **Description:** Describe your contribution and its impact on the project.
-- **Contribution:** [Link to the Contribution](https://github.com/project1/pull/123)
-- **Repository:** [Link to the Repository](https://github.com/project1)
-
-### Project Name 2
-
-- **Description:** Describe your contribution and its impact on the project.
-- **Contribution:** [Link to the Contribution](https://github.com/project2/pull/456)
-- **Repository:** [Link to the Repository](https://github.com/project2)
-
-## GitHub Streak Snake Game
-
-Add the following code snippet to display the GitHub Streak Snake Game:
-
-![Snake Game](https://github.com/a0s21en5/a0s21en5/blob/output/github-contribution-grid-snake.svg)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
