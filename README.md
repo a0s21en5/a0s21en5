@@ -1,21 +1,35 @@
-<h1 align="center"><span style="color:#336699;">Hii 👋, I'm Ashish Sahu</span></h1>
+<!-- Header -->
+# Hi there! 👋 I'm Ashish Sahu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a0s21en5&label=Profile%20views&color=0e75b6&style=flat" alt="a0s21en5" /> </p>
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=a0s21en5&label=Profile%20views&color=0e75b6&style=flat)
 
-> 👀 I am Ashish, working as a Software Developer Intern at CoreCard Software Inc.
+<!-- Introduction -->
+- 🔭 I'm currently working as a Software Developer Intern at CoreCard Software Inc.
+- 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
+- 👨‍💻 You can find my projects at [https://ashishsahu.me/](https://ashishsahu.me/)
+- 📝 I write blog posts on [https://thehackingblog.tech/](https://thehackingblog.tech/)
+- 💬 Ask me about **Web Development**
+- 📫 Reach me at ashsahu9713@gmail.com
+- ⚡ Fun fact: I love to improve my understanding and competence in all aspects of life.
 
-> 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
+<!-- Holopin Board -->
+[![Holopin Board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
 
-> 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
+<!-- GitHub Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5)
 
-> 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
+<!-- Social Links -->
+### Connect with me:
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ashishsahu.me/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />](https://www.linkedin.com/in/your-linkedin-profile/)
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />](https://twitter.com/your-twitter-handle)
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.svg" />](https://github.com/your-github-profile/)
+<br />
 
-> 💬 Ask me about **Web Development**
-
-> 📫 How to reach me: ashsahu9713@gmail.com
-
-> ⚡ Fun fact: I love to improve my understanding and competence at every point in life.
-
-[![a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
+<!-- Recent Blog Posts -->
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Introduction to RESTful API](https://thehackingblog.tech/introduction-to-restful-api/)
+- [Getting Started with C# Programming](https://thehackingblog.tech/getting-started-with-csharp-programming/)
+<!-- BLOG-POST-LIST:END -->
