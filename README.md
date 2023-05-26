@@ -20,6 +20,3 @@
 [![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" /></p>
-
-
-![GitHub Streak](https://img.shields.io/github/commit-activity/m/{a0s21en5}/{a0s21en5}.svg)
