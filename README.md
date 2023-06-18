@@ -1,8 +1,8 @@
-<h1 align="center">Hii 👋, I'm Ashish Sahu</h1>
+<h1 align="center">Hello 👋, I'm Ashish Sahu</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a0s21en5&label=Profile%20views&color=0e75b6&style=flat" alt="a0s21en5" /> </p>
 
-> 👀 I am Ashish, working as an Software Developer Intern at CoreCard Software Inc.
+> 👀 I am Ashish, working as a Software Developer Intern at CoreCard Software Inc.
 
 > 🌱 I’m currently learning **C#**, **.NET** and **RESTful API**.
 
