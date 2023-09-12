@@ -8,7 +8,7 @@
 
 > 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
 
-> 👨‍💻 All of my projects are available at [https://ashishsahu.me/](https://ashishsahu.me/)
+> 👨‍💻 All of my projects are available at [https://a0s21en5.github.io/AshishSahu.github.io/](https://a0s21en5.github.io/AshishSahu.github.io/)
 
 > 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
 
