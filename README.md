@@ -10,8 +10,6 @@
 
 > 👨‍💻 All of my projects are available at [https://a0s21en5.github.io/AshishSahu.github.io/](https://a0s21en5.github.io/AshishSahu.github.io/)
 
-> 📝 I write blog on [https://thehackingblog.tech/](https://thehackingblog.tech/)
-
 > 💬 Ask me about **Web Development**
 
 > 📫 How to reach me **ashsahu9713@gmail.com**
