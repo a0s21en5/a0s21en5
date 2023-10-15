@@ -16,7 +16,7 @@
 
 > ⚡ Fun fact **I love to improve my understanding and competence at every point in life.**
 
-[![@a0s21en5's Holopin board](https://holopin.io/api/user/board?user=a0s21en5)](https://holopin.io/@a0s21en5)
+[![An image of @a0s21en5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a0s21en5)](https://holopin.io/@a0s21en5)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&" alt="a0s21en5" />
