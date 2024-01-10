@@ -13,3 +13,5 @@
 > ⚡ Fun fact: **I love to improve my understanding and competence at every point in life.**
 
 [![An image of @a0s21en5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a0s21en5)](https://holopin.io/@a0s21en5)
+
+![GitHub Streak](https://github.com/a0s21en5)
