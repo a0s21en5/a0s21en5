@@ -15,5 +15,5 @@
 [![An image of @a0s21en5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a0s21en5)](https://holopin.io/@a0s21en5)
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=a0s21en5&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&theme=dark&background=000000&border=4E69C8&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=77B255" alt="a0s21en5" />
 </p>
