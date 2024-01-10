@@ -17,3 +17,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5&theme=dark&background=000000&border=4E69C8&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=77B255" alt="a0s21en5" />
 </p>
+
+[![a0s21en5's GitHub Streak](https://streak-stats.demolab.com?user=a0s21en5&theme=dark)](https://git.io/streak-stats)
