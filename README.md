@@ -14,4 +14,4 @@
 
 [![An image of @a0s21en5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a0s21en5)](https://holopin.io/@a0s21en5)
 
-![GitHub Streak](https://github.com/a0s21en5)
+![a0s21en5's Stats](https://github-readme-stats.vercel.app/api?username=a0s21en5&theme=default&show_icons=true&hide_border=true&count_private=true)
