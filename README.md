@@ -2,7 +2,7 @@
 
 > 👀 I am Ashish, working as a Software Developer Trainee Engineer at CoreCard Software Inc.
 
-> 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
+> 🌱 Passionate about web development, I am dedicated to expanding my knowledge in **C#**, **.NET**, **Angular**, and **RESTful API**.
 
 > 👨‍💻 All of my projects are available at [https://a0s21en5.github.io/AshishSahu.github.io/](https://a0s21en5.github.io/AshishSahu.github.io/)
 
