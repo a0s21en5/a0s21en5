@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ashish Sahu</h1>
 
-> 👀 I am Ashish, working as a Software Developer Intern at CoreCard Software Inc.
+> 👀 I am Ashish, working as a Software Developer Trainee Engineer at CoreCard Software Inc.
 
 > 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
 
