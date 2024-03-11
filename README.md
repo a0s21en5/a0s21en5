@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Ashish Sahu</h1>
+<h1 align="center">Helloi, I'm Ashish Sahu</h1>
 
 > 👀 I am Ashish, working as a Software Developer Trainee Engineer at CoreCard Software Inc.
 
