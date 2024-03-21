@@ -4,7 +4,7 @@
 
 > 🌱 Passionate about web development, I am dedicated to expanding my knowledge in **C#**, **.NET**, **Angular**, and **RESTful API**.
 
-> 👨‍💻 All of my projects are available at [Click Here](https://a0s21en5.github.io/AshishSahu.github.io/)
+> 👨‍💻 All of my projects are available at [a0s21en5](https://a0s21en5.github.io/AshishSahu.github.io/)
 
 > 💬 Ask me about **Web Development**.
 
