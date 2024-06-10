@@ -25,3 +25,5 @@
 - Check out my Holopin badges: [![An image of @a0s21en5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a0s21en5)](https://holopin.io/@a0s21en5)
 
 Feel free to reach out to me if you have any questions or just want to chat! 😊
+
+![snake gif](https://github.com/a0s21en5/a0s21en5/blob/output/github-contribution-grid-snake.gif)
