@@ -13,9 +13,9 @@
 ### Technologies & Tools 🛠️
 - **Languages:** C#, SQL
 - **Frameworks/Libraries:** Angular
-- **Back End:** ASP.NET
+- **Back End:** ASP.NET Core Web API
 - **APIs:** RESTful
-- **Others:** Git
+- **Others:** Git and Linux
 
 ### Connect with Me 📫
 - Email: ashsahu9713@gmail.com
