@@ -1,4 +1,4 @@
-# Hi World! 👋 I'm Ashish Sahu
+# Hi World! 👋 I'm Ashish
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5" alt="a0s21en5's GitHub Streak" />
