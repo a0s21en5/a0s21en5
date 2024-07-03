@@ -27,3 +27,7 @@
 Feel free to reach out to me if you have any questions or just want to chat! 😊
 
 ![snake gif](https://github.com/a0s21en5/a0s21en5/blob/output/github-contribution-grid-snake.gif)
+
+### #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@a0s21en5/30-nites-of-code)  
+  ![@a0s21en5 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=a0s21en5)
