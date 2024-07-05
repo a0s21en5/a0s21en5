@@ -1,4 +1,4 @@
-![github-snake](https://github.com/a0s21en5/a0s21en5/assets/86140629/ac7180bc-ce3f-44b1-bde2-13353b6a0736)# Hello World! 👋 I'm Ashish
+# Hello World! 👋 I'm Ashish
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a0s21en5" alt="a0s21en5's GitHub Streak" />
@@ -26,7 +26,7 @@
 
 Feel free to reach out to me if you have any questions or just want to chat! 😊
 
-![snake gif](https://github.com/a0s21en5/a0s21en5/blob/output/github-contribution-grid-snake.gif)
+![github-snake](https://github.com/a0s21en5/a0s21en5/assets/86140629/ac7180bc-ce3f-44b1-bde2-13353b6a0736)
 
 ### #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@a0s21en5/30-nites-of-code)  
