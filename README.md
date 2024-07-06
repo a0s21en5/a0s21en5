@@ -24,7 +24,6 @@
 
 ### Fun Stuff 🎉
 - Check out my Holopin badges: [![An image of @a0s21en5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/a0s21en5)](https://holopin.io/@a0s21en5)
-- 
 
 ![github-snake](https://github.com/a0s21en5/a0s21en5/assets/86140629/ac7180bc-ce3f-44b1-bde2-13353b6a0736)
 
