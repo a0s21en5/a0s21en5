@@ -5,17 +5,17 @@
 </p>
 
 ### About Me ℹ️
-- 👨‍💻 I'm a Software Developer Trainee Engineer at CoreCard Software Inc.
-- 🌱 I'm passionate about web development and always eager to expand my knowledge.
+- 👨‍💻 Currently I'm a Trainee Engineer at CoreCard Software Inc.
+- 🌱 I'm a passionate software developer with experience in both front-end and back-end technologies.
 - 💬 Ask me about **Web Development**.
 - ⚡ Fun fact: I love to improve my understanding and competence at every point in life.
 
 ### Technologies & Tools 🛠️
 - **Languages:** C#, SQL
 - **Frameworks/Libraries:** Angular
-- **Back End:** ASP.NET Core Web API
+- **Back End:** .NET (MVC, ASP.NET, ASP.NET Core, ASP.NET Core Web API), C#
 - **APIs:** RESTful
-- **Others:** Git and Linux
+- **Tools & Technologies:** Dapper, Entity Framework, LINQ, ADO.NET, Git, GitHub, Docker, RabbitMQ, Linux
 
 ### Connect with Me 📫
 - Email: ashsahu9713@gmail.com
