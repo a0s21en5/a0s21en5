@@ -5,7 +5,7 @@
 </p>
 
 ### About Me ℹ️
-- 👨‍💻 Currently I'm a Trainee Engineer at CoreCard Software Inc.
+- 👨‍💻 Currently I'm an Associate Developer at CoreCard Software India Pvt. Ltd.
 - 🌱 I'm a passionate software developer with experience in both front-end and back-end technologies.
 - 💬 Ask me about **Web Development**.
 - ⚡ Fun fact: I love to improve my understanding and competence at every point in life.
