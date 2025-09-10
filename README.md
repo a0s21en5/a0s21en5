@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://holopin.io/@a0s21en5" target="_blank">
-    <img src="https://holopin.me/a0s21en5" alt="Holopin Badges" width="70%"/>
+    <img src="https://holopin.me/a0s21en5" alt="Holopin Badges" width="80%"/>
   </a>
 </div>
 
